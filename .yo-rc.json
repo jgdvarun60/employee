@@ -1,0 +1,53 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mycompany.myapp"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "monolith",
+    "baseName": "ff4j",
+    "packageName": "com.mycompany.myapp",
+    "packageFolder": "com/mycompany/myapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZWIxODVhYjUxOGY2MzNjOWIzMWFiZTc5NDk1MGUwMjcwMTY2YTZkZjUyMzg1MGU5ZjY2ZDRhYjdjNTU4MjNkYWZhZjc1MzM4OGUzMDQyYzc1YzliOGE5NzE2YzU0NzUzNDUzMWY2NjNmNzM0NGVhNzhiZTI1ODRjZTE1NDZkNTI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1582620878151,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-standalone-profile",
+        "version": "2.3.0"
+      },
+      {
+        "name": "generator-jhipster-audit-helper",
+        "version": "1.0.3"
+      },
+      {
+        "name": "generator-jhipster-quota",
+        "version": "1.0.3"
+      }
+    ],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
